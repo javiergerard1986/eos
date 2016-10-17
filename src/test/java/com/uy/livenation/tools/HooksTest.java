@@ -21,7 +21,6 @@ public class HooksTest {
 	//------------------------------------
 	public static WebDriver getFirefoxDriver() {
 		return firefoxDriver;
-		//adding comment
 	}
 
 	
